@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PE_parser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/computer_vision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab2_embedded-systems" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lamp_manipulation" vcs="Git" />
   </component>
 </project>
